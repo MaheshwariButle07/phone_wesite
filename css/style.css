@@ -1,0 +1,49 @@
+.btn-buy-now{
+    margin: 10px;
+    padding:10px 50px;
+    background-color: #ffa31a;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.image{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.phone{
+    width: 230px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 10px #a3a3a3;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.product-description{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.product-price{
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.product-title{
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+home-icon{
+   height: 10px;
+}
+
+.home-icon{
+    font-size: 50px;
+    color: black;
+    
+}
